@@ -1,0 +1,11 @@
+body {
+  background-color: #1c8de0;
+}
+/*#sideBar {*/
+  /*display: none;*/
+/*}*/
+@media screen and (max-width: 480px) {
+  #sideBar {
+    display: none;
+  }
+}
